@@ -1,0 +1,6 @@
+2. download python (When Downloading Click "Add to Path")
+3. in the "cheetos" folder at the top you will see something like "This pc > downloads > cheetos" click that bar and delete all the words and type cmd, then enter once in cmd copy and paste "pip install -r requirements.txt" wait for it to finish then
+4. open remastered.py by typing "python remastered.py" in cmd
+5. enter ur y-x axis 
+6. enter ur ads sens 
+7. f1 to turn on/off & f2 to close cheat
